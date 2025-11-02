@@ -36,12 +36,12 @@ Aplikasi ini tersedia dalam dua versi:
 <img src="https://raw.githubusercontent.com/DeJavi08/ENG-Digital-Literacy/refs/heads/main/app-screenshot.png" alt="Digital Literacy Banner" width="500px" />
 
 ### 👥 Tim Pengembang
-* **Pengembang Aplikasi:** Javier Ahmad Arivery
-* **Desainer Aplikasi:** Zaki Wijaya
+* **Pengembang Aplikasi:** [Javier Ahmad Arivery](https://instagram.com/javii08.__)
+* **Desainer Aplikasi:** [Zaki Wijaya](https://www.instagram.com/zakiver7.1/)
 
 
 ### 📚 Tentang Pembimbing
-Proyek ini dikembangkan di bawah bimbingan **Ibu NUR FITRIAH, S.Pd**, guru Bahasa Inggris di **SMAN 17 Surabaya**.
+Proyek ini dikembangkan di bawah bimbingan **Ibu [NUR FITRIAH, S.Pd](https://sman17sby.sch.id/archives/teachers/nur-fitriah-s-pd)**, guru Bahasa Inggris di **SMAN 17 Surabaya**.
 
 
 ### 📄 Lisensi

@@ -1,4 +1,4 @@
-<h1 align="center">📚 Welcome to <b>Digital Literacy</b> 👋</h1> <p align="center"> <img src="https://raw.githubusercontent.com/DeJavi08/ENG-Digital-Literacy/refs/heads/main/app-icon.png" alt="Digital Literacy Banner" width="20%" /> </p> <p align="center"> <img src="https://img.shields.io/badge/version-1.0-blue.svg" /> <img src="https://img.shields.io/badge/tool-Articulate%20Storyline%203-orange.svg" /> <img src="https://img.shields.io/badge/license-educational-lightgrey.svg" /> <img src="https://img.shields.io/badge/status-active-brightgreen.svg" /> </p> <p align="center"> <i>Interactive digital literacy learning app for SMA students <br> developed with Articulate Storyline 3 as part of the GEMPITA program 💡</i> </p>
+<h1 align="center">📚 Welcome to <b>Digital Literacy</b> 👋</h1> <p align="center"> <img src="https://raw.githubusercontent.com/DeJavi08/ENG-Digital-Literacy/refs/heads/main/app-icon.png" alt="Digital Literacy Banner" width="200px" /> </p> <p align="center"> <img src="https://img.shields.io/badge/version-1.0-blue.svg" /> <img src="https://img.shields.io/badge/tool-Articulate%20Storyline%203-orange.svg" /> <img src="https://img.shields.io/badge/license-educational-lightgrey.svg" /> <img src="https://img.shields.io/badge/status-active-brightgreen.svg" /> </p> <p align="center"> <i>Interactive digital literacy learning app for SMA students <br> developed with Articulate Storyline 3 as part of the GEMPITA program 💡</i> </p>
 
 ---
 
@@ -33,7 +33,7 @@ Aplikasi ini tersedia dalam dua versi:
 4. Setelah instalasi selesai, buka aplikasi dan mulai belajar!
 
 ### 📸 Preview
-<img src="https://raw.githubusercontent.com/DeJavi08/ENG-Digital-Literacy/refs/heads/main/app-screenshot.png" alt="Digital Literacy Banner" width="50%" />
+<img src="https://raw.githubusercontent.com/DeJavi08/ENG-Digital-Literacy/refs/heads/main/app-screenshot.png" alt="Digital Literacy Banner" width="500px" />
 
 ### 👥 Tim Pengembang
 * **Pengembang Aplikasi:** Javier Ahmad Arivery

@@ -32,6 +32,8 @@ Aplikasi ini tersedia dalam dua versi:
 3. **Instal aplikasi** dengan mengetuk file APK.
 4. Setelah instalasi selesai, buka aplikasi dan mulai belajar!
 
+### 📸 Preview
+<img src="https://raw.githubusercontent.com/DeJavi08/ENG-Digital-Literacy/refs/heads/main/app-screenshot.png" alt="Digital Literacy Banner" width="50%" />
 
 ### 👥 Tim Pengembang
 * **Pengembang Aplikasi:** Javier Ahmad Arivery
